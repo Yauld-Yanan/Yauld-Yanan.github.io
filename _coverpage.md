@@ -1,7 +1,4 @@
-<!-- _coverpage.md -->
-
-<!-- ![logo](icon.svg) -->
-![logo](20240825191254.png)
+![logo](./20240825191254.png)
 
 # Yauld-Yanan <small>3.5</small>
 

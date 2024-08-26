@@ -273,7 +273,6 @@
 >
 >[CSS组件库 ](https://navnav.co/)
 >
->[CSS组件]([Loader by SchawnnahJ made with CSS | Uiverse.io](https://uiverse.io/SchawnnahJ/tough-baboon-87))
+>[CSS组件]([Loader by SchawnnahJ made with CSS | Uiverse.io](https://uiverse.io/SchawnnahJ/tough-baboon-87)
 >
->[docsify](https://docsify.js.org/#/)
-
+>[docsify](https://docsify.js.org/#/zh-cn/)
