@@ -40,7 +40,17 @@
 >
 > 至美 : https://zhutix.com/wallpaper/
 >
-> - [中关村壁纸（4K／多分类）](http://desk.zol.com.cn/)
+> [壁纸湖](https://bizihu.com/?www.xijitu.com=1)
+>
+> [必应壁纸](https://bing.xinac.net/?www.xijitu.com=1)
+>
+> [360壁纸](https://bizhi.360.cn/?www.xijitu.com=1#/)(可执行程序)
+>
+> [4K壁纸网](https://www.bizhi99.com/3840x2160/)
+>
+> [中关村壁纸（4K／多分类）](http://desk.zol.com.cn/)
+>
+> [Pexels](https://www.pexels.com/zh-cn/)
 
 ***
 
@@ -130,10 +140,6 @@
 >好谷：https://gitee.com/ziyuanyihe/web-development-norm
 >
 >常见类名规范：https://www.yuque.com/momoko-kxh7b/dzsswc/whf5m9
->
->animal 动画库  : https://animate.style/#usage
->
->贝塞尔曲线 (可以自定义运动轨迹) : https://cubic-bezier.com/#.11,.91,.93,.41
 
 ## 书籍篇
 
@@ -239,6 +245,7 @@
 > - [片刻抠图（抠图质量不错／可调整抠图结果）](https://www.pickwant.com/home)
 > - [佐糖（抠图质量不错／最多可以免费下载2K分辨率的图片）](https://picwish.cn/)
 > - [Slazzer（抠图质量高但无法免费保存高清图／可用图片放大工具解决）](https://www.slazzer.com/)
+> - [图片去水印](https://www.apowersoft.cn/image-watermark-remover?www.xijitu.com=1)
 
 ## LOGO生成
 
@@ -269,10 +276,38 @@
 
 ## 其他
 
->[极简插件](https://chrome.zzzmh.cn/index)
->
 >[CSS组件库 ](https://navnav.co/)
 >
->[CSS组件]([Loader by SchawnnahJ made with CSS | Uiverse.io](https://uiverse.io/SchawnnahJ/tough-baboon-87)
+>[CSS组件][Loader by SchawnnahJ made with CSS | Uiverse.io](https://uiverse.io/SchawnnahJ/tough-baboon-87)
 >
 >[docsify](https://docsify.js.org/#/zh-cn/)
+>
+>[在线制作ico图标 | 在线ico图标转换工具 方便制作favicon.ico - 比特虫 - Bitbug.net](https://www.bitbug.net/)
+>
+>[客家创业网](https://www.kejiacyw.com/)
+>
+>[资源导航](https://www.zydh.com/)
+>
+>[全景故宫](https://pano.dpm.org.cn/?www.xijitu.com=1#/)
+>
+>[草料二维码](https://www.xijutu.com/go/?url=aHR0cHM6Ly9jbGkuaW0v)
+>
+>[曦聚兔导航](https://www.xijutu.com/)
+
+## 工具箱
+
+> [博客趣工具箱](http://tool.bokequ.com/?www.xijitu.com=1)
+
+## 谷歌插件库
+
+> [极简插件](https://chrome.zzzmh.cn/index)
+>
+> [扩展搜搜](https://www.crxsoso.com/)
+
+## 前端
+
+> [前端绘图插件](https://echarts.apache.org/examples/zh/index.html)
+>
+> [animal 动画库](https://animate.style/#usage)
+>
+> [贝塞尔曲线 (可以自定义运动轨迹)](https://cubic-bezier.com/#.11,.91,.93,.41)
