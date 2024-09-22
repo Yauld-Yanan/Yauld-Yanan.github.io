@@ -40,6 +40,8 @@
 >
 > 至美 : https://zhutix.com/wallpaper/
 >
+> [哲风壁纸](https://www.haowallpaper.com/)
+>
 > [壁纸湖](https://bizihu.com/?www.xijitu.com=1)
 >
 > [必应壁纸](https://bing.xinac.net/?www.xijitu.com=1)
@@ -51,6 +53,8 @@
 > [中关村壁纸（4K／多分类）](http://desk.zol.com.cn/)
 >
 > [Pexels](https://www.pexels.com/zh-cn/)
+>
+> [壁纸汇](https://www.bizhihui.com/)
 
 ***
 
@@ -144,6 +148,8 @@
 ## 书籍篇
 
 >图书馆图书合集 ：https://www.alipan.com/s/9VzMuTRM8Fe/folder/63840e5b4f68b8d5b4f5479fbb093e2a911d3fb9
+>
+>[Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。 (singlelogin.re)](https://zh.singlelogin.re/?ts=0619)
 
 ## 电视剧
 
@@ -276,13 +282,7 @@
 
 ## 其他
 
->[CSS组件库 ](https://navnav.co/)
->
->[CSS组件][Loader by SchawnnahJ made with CSS | Uiverse.io](https://uiverse.io/SchawnnahJ/tough-baboon-87)
->
 >[docsify](https://docsify.js.org/#/zh-cn/)
->
->[在线制作ico图标 | 在线ico图标转换工具 方便制作favicon.ico - 比特虫 - Bitbug.net](https://www.bitbug.net/)
 >
 >[客家创业网](https://www.kejiacyw.com/)
 >
@@ -293,16 +293,24 @@
 >[草料二维码](https://www.xijutu.com/go/?url=aHR0cHM6Ly9jbGkuaW0v)
 >
 >[曦聚兔导航](https://www.xijutu.com/)
+>
+>[花猫导航](https://feizhuke.com/sites/huamaodaohang.html)
+>
+>[配音工具](https://fish.audio/zh-CN/)
 
 ## 工具箱
 
 > [博客趣工具箱](http://tool.bokequ.com/?www.xijitu.com=1)
+>
+> [爱达杂货铺](https://adzhp.xyz/)
 
 ## 谷歌插件库
 
 > [极简插件](https://chrome.zzzmh.cn/index)
 >
 > [扩展搜搜](https://www.crxsoso.com/)
+>
+> [扩展迷](https://www.kuozhanmi.com/)
 
 ## 前端
 
@@ -311,3 +319,19 @@
 > [animal 动画库](https://animate.style/#usage)
 >
 > [贝塞尔曲线 (可以自定义运动轨迹)](https://cubic-bezier.com/#.11,.91,.93,.41)
+>
+> [炫酷配色](https://www.coocolors.com/)
+>
+> [CSS组件库 ](https://navnav.co/)
+>
+> [CSS组件][Loader by SchawnnahJ made with CSS | Uiverse.io](https://uiverse.io/SchawnnahJ/tough-baboon-87)
+>
+> [在线制作ico图标 | 在线ico图标转换工具 方便制作favicon.ico - 比特虫 - Bitbug.net](https://www.bitbug.net/)
+
+## 数据集
+
+>[和鲸社区](https://www.heywhale.com/home/)
+>
+>[天池数据集](https://tianchi.aliyun.com/)
+>
+>[飞浆](https://aistudio.baidu.com/index)
